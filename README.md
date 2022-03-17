@@ -2,7 +2,7 @@
 [![MasterHead] (https://media2.giphy.com/media/hXRrrNr5yVBDnSsWHw/giphy.gif?cid=790b7611f9d907e38ceeb8709255c0b84d5dfe419f4d4545&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Hemant Tejwani</h1>
 <h3 align="center">An Aspiring Data Scientist, Data Analyst and Business Intelligence Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/InbornSeriousBronco-mobile.mp4">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/hXRrrNr5yVBDnSsWHw/giphy.gif?cid=790b7611f9d907e38ceeb8709255c0b84d5dfe419f4d4545&rid=giphy.gif&ct=g">
 
 
 - 🔭 I’m currently working on **Business Intelligence Analyst Projects**
